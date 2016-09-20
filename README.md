@@ -1,2 +1,15 @@
-# masters_sensor_pedulum
-Nicolas DOLPHENS &amp; Thibaud DENCHE master sensor pendulum project
+# masters_sensor_pendulum
+
+###  Autors
+* autors
+
+ >  Nicolas DOLPHENS
+ > 
+ >  Thibaud DENCHE
+
+### Context
+This project is the final project of the sensors class for the first year master programme in Tianjin University 2016.
+
+### Project description
+The aim is to build a pendulum which the 
+
