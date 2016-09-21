@@ -13,3 +13,7 @@ This project is the final project of the sensors class for the first year master
 ### Project description
 The aim is to build a pendulum which the 
 
+#### Sensors Information
+1. MMA7455 accelerometer
+2. Fan controller
+
